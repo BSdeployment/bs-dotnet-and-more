@@ -1,0 +1,119 @@
+/* /Pages/CODE.razor.rz.scp.css */
+/* /Pages/comps/CardIndex.razor.rz.scp.css */
+body[b-tbirmggy2f] {
+}
+.card-project-body[b-tbirmggy2f] {
+    font-size: 20px;
+   
+    text-align: center;
+}
+.card-index-title[b-tbirmggy2f]{
+    font-size:30px;
+    font-weight:bold;
+}
+.card-index-all[b-tbirmggy2f]{
+    min-height:100%;
+   
+}
+
+@media (max-width:700px){
+    .card-index-all[b-tbirmggy2f]{
+        min-height:auto;
+    }
+}
+/* /Pages/comps/CardProjects.razor.rz.scp.css */
+body[b-6lbrfxrfg4] {
+}
+.proj-card[b-6lbrfxrfg4] {
+    max-width: 250px;
+    min-width: 250px;
+}
+
+@media (max-width: 450px) {
+    .proj-title[b-6lbrfxrfg4] {
+        font-size: 40px;
+    }
+
+    .proj-card[b-6lbrfxrfg4] {
+        max-width: 180px;
+        min-width: 180px;
+        margin: 0 auto;
+    }
+
+    .proj-card-container[b-6lbrfxrfg4] {
+        max-width: 100%;
+    }
+}
+/*# so
+/* /Pages/comps/ContainerCardProjects.razor.rz.scp.css */
+body[b-l6b729sumr] {
+}
+.proj-card-container[b-l6b729sumr] {
+    max-width: 60%;
+    margin: 0 auto;
+}
+
+.proj-cards-title[b-l6b729sumr] {
+    margin-top: 120px;
+    margin-bottom: 30px;
+}
+h5[b-l6b729sumr] {
+    font-size: 25px;
+    color: rgb(20, 33, 223);
+}
+/* /Pages/comps/tools/CodeSection.razor.rz.scp.css */
+
+@media(max-width:750px){
+    code[class*=language-][b-wu2mbhthdp]{
+        font-size:0.8em;
+        line-height:1.8;
+    }
+}
+
+/* /Pages/Index.razor.rz.scp.css */
+body[b-6fxc6edg6k] {
+}
+*[b-6fxc6edg6k] {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.title-site[b-6fxc6edg6k] {
+    margin-top: 150px;
+}
+
+    .title-site h1[b-6fxc6edg6k] {
+        text-align: center;
+    }
+
+        .title-site h1 .dotnet-title[b-6fxc6edg6k] {
+            font-size: 100px;
+        }
+
+        .title-site h1 .heb-title[b-6fxc6edg6k] {
+            font-size: 50px;
+        }
+
+@media (max-width: 450px) {
+    .title-site h1 .dotnet-title[b-6fxc6edg6k] {
+        font-size: 40px;
+    }
+
+    .title-site h1 .heb-title[b-6fxc6edg6k] {
+        font-size: 30px;
+    }
+}
+/* /Pages/Projects.razor.rz.scp.css */
+body[b-bvteekqecj] {
+}
+.proj-title[b-bvteekqecj] {
+    font-size: 90px;
+    text-align: center;
+    margin-top: 40px;
+}
+
+h5[b-bvteekqecj] {
+    font-size: 25px;
+    color: rgb(20, 33, 223);
+}
