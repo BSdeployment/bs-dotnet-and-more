@@ -1,7 +1,7 @@
 {
   "entryAssembly": "MySiteTutorial",
   "resources": {
-    "hash": "sha256-b1UhyDJghXvNQpMmhXmw6rV6oGa3Bl4EyaBqxBwO9ic=",
+    "hash": "sha256-m/pCPykLEucEYuz/nM9SnAiwBKI1xnD0sZdlLHwb4l8=",
     "runtime": {
       "dotnet.7.0.14.2f1gzz2hg2.js": "sha256-YWGUknGRzP/fgO6YjvCJKPVQNZAPEd6ll+rHfQEIW+I=",
       "dotnet.timezones.blat": "sha256-t5xviiOQTfAsF0UDhmcyalKiaehUmf/sqJl97tmPM0M=",
@@ -29,7 +29,7 @@
       "Microsoft.JSInterop.dll": "sha256-hm83IY140NOmiLQ/rAymiZPVh00NL/oBc13vFoHiS5I=",
       "Microsoft.JSInterop.WebAssembly.dll": "sha256-GvJxInUwsjF3BeE2f8yKSiyDaZ8qapjihQJiJbgEDp4=",
       "MudBlazor.dll": "sha256-rFc6WP3PufyfuNZZCGlZ5ZYXdP2z7c0ivUkFt/itEx8=",
-      "MySiteTutorial.dll": "sha256-g1VZvzt7POZA56y7iEsSYE0sjZmcFywgfq09cp7aNI8=",
+      "MySiteTutorial.dll": "sha256-k9HPoAhN6tMGvzCxZtFFQdQVrt4bXgwqXp8v1sPlbBs=",
       "System.Collections.Concurrent.dll": "sha256-OQ+SLxhZSa38CZb5r2n5qpBcrPf5/Cu3hyAGoOcwm7c=",
       "System.Collections.dll": "sha256-jgCzUaXKR5b8FY4PqfWTZqwynQzSlP0oyKUkAiBwev0=",
       "System.ComponentModel.Annotations.dll": "sha256-rd32LLkzwP4EppuTMbZuCQuywhEs6gaOugoT4DN4zmU=",
