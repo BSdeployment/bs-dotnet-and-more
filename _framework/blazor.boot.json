@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "MySiteTutorial",
   "resources": {
-    "hash": "sha256-nxxtQ15vxJ6Fk2YFvzUI8E9taRuVEGmZyolkguS3ImU=",
+    "hash": "sha256-hkBu064J/HhV0UvNkyHvOlY5Pqr/GNicBUZi2bWn0cs=",
     "jsModuleNative": {
       "dotnet.native.js": "sha256-VdKq87/z5NIxZKmuM+fv38XF+RcEb/bg3jVBwQSfwP4="
     },
@@ -36,7 +36,7 @@
       "Microsoft.JSInterop.wasm": "sha256-bnrF0b5JyFbIJ17GQhIGu4ArDJ40LJgbR53fK+GwEr8=",
       "Microsoft.JSInterop.WebAssembly.wasm": "sha256-DwdIH1ydDREMe+gT+NPaWxTUdDh/bzbriY2XoySGIo4=",
       "MudBlazor.wasm": "sha256-60ewxXCibI9ychINPc+iRB6LBgwrs+ORH2d+Q4ymm7g=",
-      "MySiteTutorial.wasm": "sha256-ajXtpB2H7w0l0UsQlYJPPUKHDh5vGtl19IPmli3vbFU=",
+      "MySiteTutorial.wasm": "sha256-fgDMuaJrLT0Kqr4bFUQLLPGCyJXoTtfYRyYB1TrcOFQ=",
       "System.Collections.Concurrent.wasm": "sha256-23+TTPIcnfnCgaFyzthdHXczFGkLXMW+OiofbNFqUck=",
       "System.Collections.Immutable.wasm": "sha256-F9kEjo8/k+EEFbB4AjZ/E/Sr9AF+zJgYpy5fEdX4AzA=",
       "System.Collections.Specialized.wasm": "sha256-On3g+Jfyc7jNFSAb6OmlavT0e72RWNwhxuWgpk7kB3Y=",
